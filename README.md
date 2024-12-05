@@ -5,5 +5,6 @@ This repository is dedicated to [**Advent of Code 2024**](https://adventofcode.c
 - [x] Day 1: Historian Hysteria
 - [x] Day 2: Red-Nosed Reports
 - [x] Day 3: Mull It Over
+- [x] Day 4: Ceres Search
 
 ### I'd appreciate any feedback or code reviews you might have!
