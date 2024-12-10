@@ -17,7 +17,7 @@ while z in board:
         continue
     z += dz
 
-print(len(seen))
+print(f'Part 1: {len(seen)}')
 
 # Part 2
 def loops(x):
@@ -35,4 +35,4 @@ def loops(x):
         z += dz
     return False
 
-print(sum(map(loops, seen)))
+print(f'Part 2: {sum(map(loops, seen))}')
