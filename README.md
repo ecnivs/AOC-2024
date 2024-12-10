@@ -6,5 +6,7 @@ This repository is dedicated to [**Advent of Code 2024**](https://adventofcode.c
 - [x] Day 2: Red-Nosed Reports
 - [x] Day 3: Mull It Over
 - [x] Day 4: Ceres Search
+- [x] Day 5: Print Queue
+- [x] Day 6: Guard Gallivant
 
 ### I'd appreciate any feedback or code reviews you might have!
