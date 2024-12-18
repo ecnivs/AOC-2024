@@ -13,7 +13,7 @@ This repository is dedicated to [**Advent of Code 2024**](https://adventofcode.c
 - [x] Day 9: Disk Fragmenter
 - [x] Day 10: Hoof It
 - [x] Day 11: Plutonian Pebbles
-- [x] Day 12: Day 12: Garden Groups
-- [x] Day 13: Day 13: Claw Contraption
+- [x] Day 12: Garden Groups
+- [x] Day 13: Claw Contraption
 
 ### I'd appreciate any feedback or code reviews you might have!
