@@ -15,5 +15,6 @@ This repository is dedicated to [**Advent of Code 2024**](https://adventofcode.c
 - [x] Day 11: Plutonian Pebbles
 - [x] Day 12: Garden Groups
 - [x] Day 13: Claw Contraption
+- [x] Day 14: Restroom Redoubt
 
 ### I'd appreciate any feedback or code reviews you might have!
