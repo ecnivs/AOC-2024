@@ -17,5 +17,6 @@ This repository is dedicated to [**Advent of Code 2024**](https://adventofcode.c
 - [x] Day 13: Claw Contraption
 - [x] Day 14: Restroom Redoubt
 - [x] Day 15: Warehouse Woes
+- [x] Day 16: Reindeer Maze
 
 ### I'd appreciate any feedback or code reviews you might have!
